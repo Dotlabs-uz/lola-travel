@@ -9,6 +9,7 @@ import {
 } from "@/components/ui/accordion";
 import { Locale } from "@/i18n.config";
 import { getDictionary } from "@/lib/dictionary";
+import Image from "next/image";
 
 export default async function Home({
     params: { lang },
@@ -106,22 +107,15 @@ export default async function Home({
                         </AccordionContent>
                     </AccordionItem>
                 </Accordion>
-                <div className="uppercase mt-10 flex flex-col gap-2">
-                    <div className="flex max-sm:flex-col gap-2 max-sm:gap-0">
-                        <h3 className="font-bold">Директор:</h3>{" "}
-                        <p>Нурметова Саида Каримжон қизи</p>
-                    </div>
-                    <div className="flex max-sm:flex-col gap-2 max-sm:gap-0">
-                        <h3 className="font-bold">Время работы:</h3>{" "}
-                        <p>09:00 - 18:00</p>
-                    </div>
-                    <div className="flex max-sm:flex-col gap-2 max-sm:gap-0">
-                        <h3 className="font-bold">Адресс:</h3>{" "}
-                        <p>
-                            Тошкент шахри, Бектемир туманани, маджнунтол МФЙ,
-                            Уганч кучаси, 2-уй
-                        </p>
-                    </div>
+                <div className="mt-10">
+                    <h3 className="font-semibold text-xl mb-3">Документ</h3>
+                    <Image
+                        src={"/images/photo_2024-06-16_20-11-11.jpg"}
+                        width={1000}
+                        height={1000}
+                        alt=""
+                        className="w-[500px]"
+                    />
                 </div>
             </section>
         </div>
