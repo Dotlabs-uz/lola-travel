@@ -227,168 +227,49 @@
         },
         {
             "id": 5,
-            "title": "Tour the cities of the great silk road",
-            "body": "In 1994, Samarkand adopted a declaration 'On the revival of the Silk Road'. The main route crosses 32 large and small cities of Central Asia. Tashkent, Samarkand, Bukhara, Khiva and the cities of the Fergana valley are precious stones of the Silk Road.",
-            "price": "Tour price on request",
-            "img": "https://cdn2.tu-tu.ru/image/pagetree_node_data/1/da19747169d87b7b39d0863c38c9bf88/",
-            "img2": "https://cdn2.tu-tu.ru/image/pagetree_node_data/1/da19747169d87b7b39d0863c38c9bf88/",
+            "title": "Tour to Zaamin",
+            "body": "Zaamin National Park — opened on September 8, 1976, in the Jizzakh region to preserve, restore, and recreationally develop unique mountain juniper ecosystems. It occupies an area of 24,110 hectares, of which: forested land — 16,783 ha, non-forested — 7,327 ha, and covered with forest — 12,130 ha.",
+            "price": "$70",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Zomin_mountain-forest_state_reserve.jpg/1920px-Zomin_mountain-forest_state_reserve.jpg",
+            "img2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Zomin_mountain-forest_state_reserve.jpg/1920px-Zomin_mountain-forest_state_reserve.jpg",
             "places": [
                 {
-                    "title": "Day 1 Tashkent",
-                    "img": "https://avatars.mds.yandex.net/i?id=3dc69e3046eb9a6f89c8c9588648865683d7f499-9599239-images-thumbs&n=13",
-                    "body": "Встреча в аэропорту Ташкента, размещение в гостинице."
-                },
-                {
-                    "title": "Day 2 Tashkent",
-                    "img": "https://avatars.mds.yandex.net/i?id=a9f880432b9d2ea99bf8ad24f300852d1cd23266-10806524-images-thumbs&n=13",
-                    "body": "At 10.00 - excursion to «Old City»: Khast-Imam Square, Barak-Khan Madrassah, Kafal-al-Shashi Mazar Mausoleum, Kukeldash Madrassah, Tashkent’s oldest bazaar - Chorsu. Excursion to the modern part of Tashkent:  Museum of Applied Arts ,  Independence Square, Amir Temur Square. Night in hotel."
-                },
-                {
-                    "title": "Day 3 Tashkent - Samarkand . Samarkand (excursion).",
-                    "img": "https://avatars.mds.yandex.net/i?id=e5ec6c98d59121f1ca0ac8bc8ded3e884cab994a-10996738-images-thumbs&n=13",
-                    "body": "Breakfast in the hotel. Transfer to Samarkand. At 11:00, a tour of Samarkand: the most famous area of Central Asia - Registan (madrassah Ulugbek, madrassah Sher-Dor, madrassah Till-Kari), mausoleum Gur-Emir - tomb of Grand Tamerlan. In the afternoon, the continuation of the tour of Samarkand: Bibi-Khanum Mosque, architectural ensemble of Shahi-Zinda, Ulugbek Observatory. Night in the hotel."
-                },
-                {
-                    "title": "Day 4 Samarkand - Gijduvan - Bukhara. Bukhara (excursion).",
-                    "img": "https://tripplanet.ru/wp-content/uploads/asia/uzbekistan/buxoro/labi-hovuz.jpg",
-                    "body": "Transfer and accommodation in a hotel. After lunch, a tour of Bukhara: visit to the Lyabi-Hauz Ensemble, Kukeldash Madrassa, Nadir Divanbegi Madrassa, shopping domes, Samanid Mausoleum, Chashma Ayub Tomb, Bolo-Haus Complex, Ancient Ark Fortress, Poy-Kalyan Complex. Dinner at the national house - master class on cooking pilaf. Night in the hotel."
-                },
-                {
-                    "title": "Day 5 Bukhara ",
-                    "img": "https://top7travel.ru/wp-content/uploads/2023/05/y897a89y7v9a87yva.jpg",
-                    "body": "Breakfast in the hotel. Continuation of the tour of ancient Bukhara. Free time"
-                },
-                {
-                    "title": "Day 6 Bukhar - Khiva (bus 440 km).",
-                    "img": "http://sreda.uz/wp-content/uploads/posts/2015-11/1447435571_img_5433.jpg",
-                    "body": "Breakfast in the hotel. At 08:00 transfer through the famous desert Kyzylkum along the Amu Darya River.  Picnic on the way. Arrival in Khiva. Free time, visiting souvenir shops and workshops. Overnight in the hotel."
-                },
-                {
-                    "title": "Day 7 Khiva (excursion).",
-                    "img": "https://avatars.mds.yandex.net/i?id=e356a7a7aa46ee1c617a5fd31687d27ee4176d5f-5112218-images-thumbs&n=13",
-                    "body": "Hotel Breakfast. At 09:00 - tour of Khiva (Ichan-Kale - inner city): Pakhlavan Mahmud complex, fortress of Kunya-Arkh, madrassah and minaret of Islam Khoja, Tash Khauli palace, madrassah of Alakuli Khan, Mosque of Juma, minaret and madrassah of Muhammad Amin.  Night in the Hotel."
-                },
-                {
-                    "title": "Day 8 Khiva - Urgench",
-                    "img": "https://avatars.mds.yandex.net/i?id=ef9535ad40a2b8d1815e1945a65b3675dce491dc-10142109-images-thumbs&n=13",
-                    "body": "Transfer to Urgench International Airport. Departure from Urgench. Completion of the tour program."
+                    "title": "National Park",
+                    "img": "https://mytashkent.uz/wp-content/uploads/2018/10/a45.jpg",
+                    "body": "Sightseeing tour of the National Park including visits to Zaamin Reservoir, the ancient walnut tree Boboyengok, the juniper forest, the bear trail, and the observation deck."
                 }
             ]
         },
         {
             "id": 6,
-            "title": "Dubai Tour",
-            "body": "Dubai is a city and emirate on the Persian Gulf coast in the United Arab Emirates, which is famous for its luxury shops, ultra–modern architecture, restaurants and nightclubs. The silhouette of the city is formed by countless skyscrapers, including the Burj Khalifa with a height of 830 meters. At its base is the Dubai Musical Fountain, illuminated by floodlights. On an artificial island near the coast is the Atlantis The Palm resort with an aquapark and a marine animal park.",
-            "price": "The price of the tour on request",
-            "img": "https://avatars.mds.yandex.net/i?id=78dfeba61ce878e73d58b220ad25f559770f162b-12608381-images-thumbs&n=13",
-            "img2": "https://avatars.mds.yandex.net/i?id=78dfeba61ce878e73d58b220ad25f559770f162b-12608381-images-thumbs&n=13",
+            "title": "Tour to Aydarkul",
+            "body": "Lake Aydarkul is a picturesque body of water located in the heart of Uzbekistan. The lake was formed as a result of the Syr Darya river overflow and over time has become an important ecological site in the region. It covers a significant area and is known for its clear, slightly saline water.",
+            "price": "$70",
+            "img": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcSpOfhZSnHjI6v02bbB4fm4jn0dyRaJjsjlbRGhZuuVh9NRrG9BDEW53uUPGM_GPUaKwsbYZr55vfRmc0eqJeKU9P4qrtqt6AWcExaoHw",
+            "img2": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcSpOfhZSnHjI6v02bbB4fm4jn0dyRaJjsjlbRGhZuuVh9NRrG9BDEW53uUPGM_GPUaKwsbYZr55vfRmc0eqJeKU9P4qrtqt6AWcExaoHw",
             "places": [
                 {
-                    "title": "Burj Khalifa",
-                    "img": "https://avatars.mds.yandex.net/i?id=3de299b7153fc34c33f3e84184610e7001a6b4de-10653027-images-thumbs&n=13",
-                    "body": "Burj Khalifa is an 828-meter super—tall skyscraper in Dubai, the tallest and most multi-storey building in the world, as well as the tallest structure. The ledged shape of the building resembles a stalagmite. The opening ceremony took place on January 4"
-                },
-                {
-                    "title": "Desert in Dubai",
-                    "img": "https://avatars.mds.yandex.net/i?id=562ec849efda7daf48cad4313e6b580569b0dc40-10148308-images-thumbs&n=13",
-                    "body": "The desert in Dubai is the largest on the Arabian Peninsula and is one of the top 10 largest in the world. The territory of dry, hot, and almost impassable sands is 650 thousand square meters. Nevertheless, despite the cruelty of the climate, hundreds of thousands of tourists visit the Dubai desert every year in pursuit of adventure."
-                },
-                {
-                    "title": "Palm Island",
-                    "img": "https://avatars.mds.yandex.net/i?id=2af8381d1fc8c942e5664c47c07420fe6629456e-5661135-images-thumbs&n=13",
-                    "body": "A real miracle that appeared in Dubai from the depths of the sea is the world's largest man–made island, shaped like a date palm with many rich villas on its branches, luxury hotels in the trunk, as well as The Pointe promenade – on top of a palm tree, which pleases with a wonderful view of the legendary Atlantis hotel."
-                },
-                {
-                    "title": "Fountain Show",
-                    "img": "https://avatars.mds.yandex.net/i?id=d59363e45ad1c3fb0d4922503d6cca21ac71eda4-10113106-images-thumbs&n=13",
-                    "body": "The extraordinarily majestic and grandiose white fountain at the foot of the world's tallest building, the Khalifa Tower, is like the 'cherry on the cake' of a Dubai sightseeing tour. It is here, on the spacious promenade, that you can leisurely stroll along the water line all the way to the Dubai Opera or sit on a bench after an eventful trip and enjoy the famous musical masterpieces performed by the Dubai Fountain."
+                    "title": "National Park",
+                    "img": "https://www.advantour.com/img/uzbekistan/tours/aydarkul-tour/camels.jpg",
+                    "body": "Short camel ride to the nearby village of Dungalak (1.5 km, 30 minutes). Here you will get acquainted with the life, culture, and traditions of the villagers. You can observe the process of baking traditional Uzbek bread - 'non' and even take part in it. Return to the camp. Cost: camel ride with a guide $20 per person."
                 }
             ]
         },
         {
             "id": 7,
-            "title": "Tour of Turkey",
-            "body": "Turkey is a country in southeastern Europe and southwestern Asia, whose culture combines ancient Greek, Persian, Roman, Byzantine and Ottoman traditions. In multinational Istanbul, sprawled on the shores of the Bosphorus Strait, tourists are attracted by the famous Hagia Sophia Cathedral with its soaring dome and Christian mosaics, the majestic Blue Mosque of the XVII century and the Topkapi Palace built in the 1460s - the former residence of the Ottoman sultans. The capital of Turkey is the modern city of Ankara",
-            "price": "The price of the tour on request",
-            "img": "https://avatars.mds.yandex.net/i?id=2a74fb596e1797a8da9462a5177b92f7396791ac-12468199-images-thumbs&n=13",
-            "img2": "https://avatars.mds.yandex.net/i?id=2a74fb596e1797a8da9462a5177b92f7396791ac-12468199-images-thumbs&n=13",
+            "title": "Sangardak Waterfall",
+            "body": "Sangardak Waterfall is located in the mountains on the Uzbekistan-Tajikistan border near the Gissar Range. Location: Sariasia District, Surkhandarya Region, Republic of Uzbekistan. The waterfall is almost 70 meters high. When there is a lot of water, it can reach a height of 100 meters.",
+            "price": "$70",
+            "img": "https://avatars.mds.yandex.net/get-altay/922263/2a00000186fa1e3005746e03522569e26ede/L_height",
+            "img2": "https://avatars.mds.yandex.net/get-altay/922263/2a00000186fa1e3005746e03522569e26ede/L_height",
             "places": [
                 {
-                    "title": "The Sumel Monastery",
-                    "img": "https://upload.wikimedia.org/wikipedia/commons/d/db/Sumela_From_Across_Valley.JPG",
-                    "body": "The Sumela Monastery is located on Mount Mela near the northeast coast of Turkey. It was carved into the mountains almost 1600 years ago and operated until 1925. The monastery has a library, a chapel, a church and several other rooms open to the public. Those who get there will be rewarded with stunning natural panoramic views and some trekking options."
-                },
-                {
-                    "title": "Hike to Mount Nemrut",
-                    "img": "https://upload.wikimedia.org/wikipedia/commons/8/85/Nemrut_dag_temple_view_2.jpg",
-                    "body": "Mount Nemrut, rising to a height of 2,134 m (7,001 ft), is a UNESCO World Heritage Site and an ideal place for those who love outdoor activities. The sights on this mountain are the statues of heads, which were built in 62 BC by King Antiochus I with Persian and Greek influences. Those who wish to visit Mount Nemrut can choose an excursion from Adiyaman."
-                },
-                {
-                    "title": "Antalya",
-                    "img": "https://avatars.mds.yandex.net/i?id=d544122fa1c53f2fe85bab671a75ab08e6a7899e-10869960-images-thumbs&n=13",
-                    "body": "Antalya is one of the most popular resorts in all of Turkey, which attracts millions of tourists from all over the country and beyond every year. Due to the pleasant weather, soft sandy beaches and numerous resorts for every pocket, Antalya remains one of the most popular tourist destinations in Turkey. It is also a paradise for shoppers, especially souvenir hunters."
-                },
-                {
-                    "title": "Hike to Saklykent Canyon",
-                    "img": "https://traveltimes.ru/wp-content/uploads/2021/11/sakliken-1024x576.jpg",
-                    "body": "Saklykent Canyon is part of the Saklykent National Park. This 18 km (11 mi) long canyon has a depth of about 300 m (980 ft), making it one of the deepest canyons in the world. The water level in this canyon drops during the summer months. Since this is the peak tourist season, visitors to the canyon can go to the bottom of the canyon and enjoy the majestic view of the steep cliffs."
-                }
-            ]
-        },
-        {
-            "id": 8,
-            "title": "Medical tourism",
-            "body": "With our help, every patient will find their own doctor, and every doctor and every medical clinic will be able to position themselves not only inside the country, but also abroad. We connect foreign patients and medical institutions of the Republic of Uzbekistan into one chain, help domestic clinics and doctors move to a new, high-quality, sustainable level of work with foreign patients.",
-            "price": "The price of the tour on request",
-            "img": "https://travelrabbit.ru/wp-content/uploads/2020/09/rossii.jpg",
-            "img2": "https://travelrabbit.ru/wp-content/uploads/2020/09/rossii.jpg",
-            "places": [
-                {
-                    "title": "Urology",
-                    "img": "https://basetop.ru/wp-content/uploads/2018/02/okke2xzj.jpg",
-                    "body": "Spain opens the top ten most popular destinations for medical tourism in 2018. Namely, the city of Malaga, where the Vithas Xanit International Hospital is located. She is known for her Department of Urology, which offers advanced and gentle technologies for the treatment of various urological disorders. One of the most developed areas is laser transurethral resection of the prostate."
-                },
-                {
-                    "title": "Neurology",
-                    "img": "https://basetop.ru/wp-content/uploads/2018/02/qeyy3414.jpg",
-                    "body": "The BLK Super Speciality Hospital is located in New Delhi, the capital of India, offering a wide range of medical services from neurology to psychiatry and rheumatology. All the services that patients need are provided on site, including a blood bank, CT scan, MRI and X-ray."
-                },
-                {
-                    "title": "Neurology",
-                    "img": "https://basetop.ru/wp-content/uploads/2018/02/qeyy3414.jpg",
-                    "body": "The BLK Super Speciality Hospital is located in New Delhi, the capital of India, offering a wide range of medical services from neurology to psychiatry and rheumatology. All the services that patients need are provided on site, including a blood bank, CT scan, MRI and X-ray."
-                }
-            ]
-        },
-        {
-            "id": 9,
-            "title": "Educational tourism",
-            "body": "Have you dreamed of studying not only at the university, but also immersing yourself in the culture and history of different countries? We invite you to the exciting world of educational tourism, where education is combined with adventure, and study programs turn into exciting trips!",
-            "price": "The price of the tour on request",
-            "img": "https://tengritravel.kz/userdata/news/2018/news_342250/thumb_m/photo_246277.jpg",
-            "img2": "https://tengritravel.kz/userdata/news/2018/news_342250/thumb_m/photo_246277.jpg",
-            "places": [
-                {
-                    "title": "The methodology of research in education",
-                    "img": "https://askerweb.by/wp-content/uploads/2021/09/Vy-podhod.jpg",
-                    "body": "The methodology of research in education is a system of principles, methods, and approaches used to conduct scientific investigations in the field of education. It is aimed at systematizing and organizing the research process, as well as ensuring the reliability and objectivity of the obtained results."
-                },
-                {
-                    "title": "Professional communication",
-                    "img": "https://narisyu.cdnbro.com/posts/595636-delovoe-obshchenie-risunok-25.jpg",
-                    "body": "Professional communication is the exchange of information and ideas between people in a work context in order to effectively achieve common goals. In a professional environment, high-quality communication plays a key role in forming relationships, managing conflicts, making decisions and achieving success in work activities."
-                },
-                {
-                    "title": "Туризм и рекреация",
-                    "img": "https://avatars.mds.yandex.net/i?id=6dcb7101dc2aec66a3ccaff55b6f8337-3795566-images-thumbs&n=13",
-                    "body": "Туризм и рекреация играют ключевую роль в современном обществе, предоставляя людям возможность открыть для себя новые места, культуры и идеи, а также насладиться заслуженным отдыхом и восстановлением."
-                },
-                {
-                    "title": "The Tourism and Education module",
-                    "img": "https://f2.lpcdn.site/f9dc575201715050f5f122c1206b5cb3/3f8f9431165e8ba20fff401e7513b284.png",
-                    "body": "The Tourism and Education module is a unique approach aimed at combining adventure and learning, creating a symbiosis that enriches both the mind and the soul."
+                    "title": "Sangardak Waterfall",
+                    "img": "https://avatars.mds.yandex.net/get-vh/3245173/2a0000018fb02337059c5cca7ac7e3c68d94/smart_crop_483x322",
+                    "body": "Sangardak Waterfall is located in the mountains on the Uzbekistan-Tajikistan border near the Gissar Range. Location: Sariasia District, Surkhandarya Region, Republic of Uzbekistan. The waterfall is almost 70 meters high. When there is a lot of water, it can reach a height of 100 meters."
                 }
             ]
         }
+        
     ]
 }
