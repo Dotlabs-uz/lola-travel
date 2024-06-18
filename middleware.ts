@@ -28,7 +28,7 @@ export function middleware(request: NextRequest) {
 	);
 
 	// Redirect if there is no locale
-	if (pathnameIsMissingLocale) {
+	if (pathnameIsMissingLocale && pathname !== "/robots.txt" && pathname !== "/sitemap.xml") {
 		const locale = getLocale(request);
 		return NextResponse.redirect(
 			new URL(
