@@ -42,7 +42,7 @@ const Header: React.FunctionComponent<HeaderProps> = ({ page, lang }) => {
             <div className="container m-auto flex items-center justify-between">
                 <Link href={"/"}>
                     {/* <Image src={"/images/logo.png"} width={120} height={100} alt="" className="max-md:w-[90px] max-sm:w-[70px]"/> */}
-                    <h1 className="text-[#3ba4ec] font-bold text-2xl">LOLA TRAVEL</h1>
+                    <h1 className="text-[#3ba4ec] font-bold text-2xl">TULIP TRAVEL</h1>
                 </Link>
                 <nav>
                     <div className="flex gap-5 text-[#3ba4ec] items-center">
